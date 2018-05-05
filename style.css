@@ -1,0 +1,82 @@
+.header {
+  color: gold;
+  opacity: 1;
+  padding: 10px;
+  margin-top: 40px;
+  align-items: center;
+  width: 55%;
+  margin-left: 22%;
+}
+
+h1 {
+  font-size: 20px;
+  font-weight: 400;
+  color: gold;
+}
+
+.section {
+  margin: auto;
+  width: 70%;
+  text-align: center;
+}
+
+.btn {
+  width: 15%;
+  padding: 15px;
+  font-size: 20px;
+  color: black;
+  margin: 0 auto;
+}
+
+.timer-p {
+  margin-top: 50px;
+  font-size:24px; 
+  color: gold;
+}
+
+.answer:hover {
+  background: gold;
+}
+
+p {
+  font-size: 18px;
+  color: gold;
+}
+.answer {
+  text-align: center;
+  color: black;
+  padding: 3%;
+  margin-left: 15%;
+  margin-right: 15%;
+  background-color: white;
+  border-radius: 4px;
+}
+
+img {
+  margin-top: 30px;
+  width: 70%;
+  border-radius: 25px;
+}
+
+.first-answer {
+  margin-top: 35px;
+}
+
+.reset-button {
+  margin-top: 40px;
+}
+
+.summary-correct {
+  margin-top: 40px;
+}
+
+body {
+  background-image: url("https://s.abcnews.com/images/WNT/161118_wn_jarvis4_16x9_992.jpg");
+  background-repeat: no-repeat;
+  background-position: cover;
+  background-size: 100%;
+  color: white;
+  font-size: 20px;
+  font-family: 'Playfair Display SC', serif;
+}
+
